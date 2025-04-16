@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-16 16:51:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-16 19:04:02
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2801,6 +2801,8 @@ https://www.goodiptv.club/huya/24531382
 https://www.goodiptv.club/douyu/8762120
 #EXTINF:-1 tvg-name="异形寄生起源" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/异形寄生起源.png" group-title="📥其它频道",异形寄生起源
 https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
+#EXTINF:-1 tvg-name="影视娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影视娱乐.png" group-title="📥其它频道",影视娱乐
+http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-name="影视笑工场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影视笑工场.png" group-title="📥其它频道",影视笑工场
 https://www.goodiptv.club/douyu/10298846
 #EXTINF:-1 tvg-name="怀旧电影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧电影厅.png" group-title="📥其它频道",怀旧电影厅

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-16 16:51:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-04-16 19:04:02,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1404,6 +1404,7 @@ YOYOTV,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 小驴影视,https://www.goodiptv.club/huya/24531382
 少年看电影,https://www.goodiptv.club/douyu/8762120
 异形寄生起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
+影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 影视笑工场,https://www.goodiptv.club/douyu/10298846
 怀旧电影厅,https://www.goodiptv.club/huya/25863244
 星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
