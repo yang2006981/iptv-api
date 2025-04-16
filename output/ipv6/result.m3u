@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-16 19:04:02
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-17 07:03:10
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1451,8 +1451,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000049/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱历史.png" group-title="📥其它频道",iHOT爱历史
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱历史.png" group-title="📥其它频道",iHOT爱历史
-http://yc.myds.me:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱科学.png" group-title="📥其它频道",iHOT爱科学
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="国外科幻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外科幻.png" group-title="📥其它频道",国外科幻
@@ -2363,6 +2361,8 @@ https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeq
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="📥其它频道",海峡卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="📥其它频道",海峡卫视
+http://goo.bkpcp.top/mg/hxws
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📥其它频道",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📥其它频道",CETV-3
@@ -2765,80 +2765,132 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226212/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📥其它频道",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="28岁电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/28岁电影.png" group-title="📥其它频道",28岁电影
+https://www.goodiptv.club/douyu/8884164
 #EXTINF:-1 tvg-name="BTV重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV重温经典.png" group-title="📥其它频道",BTV重温经典
 http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m3u8
-#EXTINF:-1 tvg-name="EZQ影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EZQ影视.png" group-title="📥其它频道",EZQ影视
-https://www.goodiptv.club/huya/24396353
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电影.png" group-title="📥其它频道",NewTV超级电影
 http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV黑莓电影.png" group-title="📥其它频道",NewTV黑莓电影
+http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="S哥影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/S哥影视.png" group-title="📥其它频道",S哥影视
+https://www.goodiptv.club/huya/24720260
 #EXTINF:-1 tvg-name="YOYOTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/YOYOTV.png" group-title="📥其它频道",YOYOTV
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 #EXTINF:-1 tvg-name="一起看电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一起看电影.png" group-title="📥其它频道",一起看电影
 https://www.goodiptv.club/huya/26989248
+#EXTINF:-1 tvg-name="万人影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万人影视.png" group-title="📥其它频道",万人影视
+https://www.goodiptv.club/huya/16914870
 #EXTINF:-1 tvg-name="三七电影V" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三七电影V.png" group-title="📥其它频道",三七电影V
 https://www.goodiptv.club/douyu/9457792
 #EXTINF:-1 tvg-name="上海东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海东方影视.png" group-title="📥其它频道",上海东方影视
 http://yc.myds.me:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="二胖影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/二胖影视.png" group-title="📥其它频道",二胖影视
+https://www.goodiptv.club/douyu/10064260
+#EXTINF:-1 tvg-name="享看电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/享看电影.png" group-title="📥其它频道",享看电影
+https://www.goodiptv.club/douyu/8974130
+#EXTINF:-1 tvg-name="亿酷影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亿酷影视.png" group-title="📥其它频道",亿酷影视
+https://www.goodiptv.club/huya/25773579
 #EXTINF:-1 tvg-name="佛曰影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/佛曰影视.png" group-title="📥其它频道",佛曰影视
 https://www.goodiptv.club/douyu/9671758
 #EXTINF:-1 tvg-name="卡拉玛依影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡拉玛依影视.png" group-title="📥其它频道",卡拉玛依影视
 http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
+#EXTINF:-1 tvg-name="发条张的电影最TOP" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/发条张的电影最TOP.png" group-title="📥其它频道",发条张的电影最TOP
+https://www.goodiptv.club/douyu/2164691
+#EXTINF:-1 tvg-name="周星驰的直播间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰的直播间.png" group-title="📥其它频道",周星驰的直播间
+https://www.goodiptv.club/douyu/8257039
 #EXTINF:-1 tvg-name="哆啦A梦大雄与天空的理想乡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哆啦A梦大雄与天空的理想乡.png" group-title="📥其它频道",哆啦A梦大雄与天空的理想乡
 https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
 #EXTINF:-1 tvg-name="哆啦A梦大雄与天空的理想乡普通话" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哆啦A梦大雄与天空的理想乡普通话.png" group-title="📥其它频道",哆啦A梦大雄与天空的理想乡普通话
 https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
+#EXTINF:-1 tvg-name="哈利影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈利影视.png" group-title="📥其它频道",哈利影视
+https://www.goodiptv.club/douyu/8475821
 #EXTINF:-1 tvg-name="哥斯拉大战金刚2帝国崛起" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哥斯拉大战金刚2帝国崛起.png" group-title="📥其它频道",哥斯拉大战金刚2帝国崛起
 https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
 #EXTINF:-1 tvg-name="哪咤之决战龙神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哪咤之决战龙神.png" group-title="📥其它频道",哪咤之决战龙神
 https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
+#EXTINF:-1 tvg-name="喜人电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜人电影.png" group-title="📥其它频道",喜人电影
+https://www.goodiptv.club/douyu/10348735
+#EXTINF:-1 tvg-name="噬元兽影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/噬元兽影视.png" group-title="📥其它频道",噬元兽影视
+https://www.goodiptv.club/douyu/8896723
+#EXTINF:-1 tvg-name="四叶草影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四叶草影视.png" group-title="📥其它频道",四叶草影视
+https://www.goodiptv.club/douyu/9446117
 #EXTINF:-1 tvg-name="大笑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大笑影院.png" group-title="📥其它频道",大笑影院
 https://www.goodiptv.club/douyu/10329300
-#EXTINF:-1 tvg-name="奇怪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇怪电影.png" group-title="📥其它频道",奇怪电影
-https://www.goodiptv.club/douyu/9440966
-#EXTINF:-1 tvg-name="小驴影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小驴影视.png" group-title="📥其它频道",小驴影视
-https://www.goodiptv.club/huya/24531382
+#EXTINF:-1 tvg-name="大米饭影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大米饭影视.png" group-title="📥其它频道",大米饭影视
+https://www.goodiptv.club/douyu/9824094
+#EXTINF:-1 tvg-name="大荒电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大荒电影.png" group-title="📥其它频道",大荒电影
+https://www.goodiptv.club/douyu/3508538
+#EXTINF:-1 tvg-name="大趴电影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大趴电影院.png" group-title="📥其它频道",大趴电影院
+https://www.goodiptv.club/douyu/8747638
+#EXTINF:-1 tvg-name="小儛电影嘚啵嘚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小儛电影嘚啵嘚.png" group-title="📥其它频道",小儛电影嘚啵嘚
+https://www.goodiptv.club/douyu/8362978
+#EXTINF:-1 tvg-name="小葛电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小葛电影.png" group-title="📥其它频道",小葛电影
+https://www.goodiptv.club/huya/24612444
 #EXTINF:-1 tvg-name="少年看电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年看电影.png" group-title="📥其它频道",少年看电影
 https://www.goodiptv.club/douyu/8762120
 #EXTINF:-1 tvg-name="异形寄生起源" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/异形寄生起源.png" group-title="📥其它频道",异形寄生起源
 https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
-#EXTINF:-1 tvg-name="影视娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影视娱乐.png" group-title="📥其它频道",影视娱乐
-http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-name="影视梗大叔" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影视梗大叔.png" group-title="📥其它频道",影视梗大叔
+https://www.goodiptv.club/douyu/9480648
 #EXTINF:-1 tvg-name="影视笑工场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影视笑工场.png" group-title="📥其它频道",影视笑工场
 https://www.goodiptv.club/douyu/10298846
-#EXTINF:-1 tvg-name="怀旧电影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧电影厅.png" group-title="📥其它频道",怀旧电影厅
-https://www.goodiptv.club/huya/25863244
+#EXTINF:-1 tvg-name="成龙历险纪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙历险纪.png" group-title="📥其它频道",成龙历险纪
+https://www.goodiptv.club/douyu/2287949
+#EXTINF:-1 tvg-name="我是吃泡面看电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我是吃泡面看电影.png" group-title="📥其它频道",我是吃泡面看电影
+https://www.goodiptv.club/douyu/8851063
 #EXTINF:-1 tvg-name="星际穿越" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星际穿越.png" group-title="📥其它频道",星际穿越
 https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-#EXTINF:-1 tvg-name="比尔电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/比尔电影.png" group-title="📥其它频道",比尔电影
-https://www.goodiptv.club/huya/17227870
-#EXTINF:-1 tvg-name="猫眼电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫眼电影.png" group-title="📥其它频道",猫眼电影
-https://www.goodiptv.club/douyu/8726221
+#EXTINF:-1 tvg-name="木咤影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/木咤影视.png" group-title="📥其它频道",木咤影视
+https://www.goodiptv.club/huya/24535077
+#EXTINF:-1 tvg-name="梦梦影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梦梦影视.png" group-title="📥其它频道",梦梦影视
+https://www.goodiptv.club/huya/25129377
+#EXTINF:-1 tvg-name="熊猫电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫电影.png" group-title="📥其它频道",熊猫电影
+https://www.goodiptv.club/douyu/3506483
+#EXTINF:-1 tvg-name="爆裂电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爆裂电影.png" group-title="📥其它频道",爆裂电影
+https://www.goodiptv.club/huya/25013725
+#EXTINF:-1 tvg-name="爱星影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱星影视.png" group-title="📥其它频道",爱星影视
+https://www.goodiptv.club/douyu/9476806
+#EXTINF:-1 tvg-name="猫哥影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫哥影视.png" group-title="📥其它频道",猫哥影视
+https://www.goodiptv.club/huya/23566617
 #EXTINF:-1 tvg-name="电影不挤影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影不挤影院.png" group-title="📥其它频道",电影不挤影院
 https://www.goodiptv.club/huya/11352897
-#EXTINF:-1 tvg-name="电影享不停" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影享不停.png" group-title="📥其它频道",电影享不停
-https://www.goodiptv.club/huya/16873147
-#EXTINF:-1 tvg-name="电影喜乐影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影喜乐影院.png" group-title="📥其它频道",电影喜乐影院
-https://www.goodiptv.club/huya/21059580
 #EXTINF:-1 tvg-name="电影大卫贝肯倒霉特工熊" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影大卫贝肯倒霉特工熊.png" group-title="📥其它频道",电影大卫贝肯倒霉特工熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 tvg-name="电影幕后喵" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影幕后喵.png" group-title="📥其它频道",电影幕后喵
-https://www.goodiptv.club/douyu/8884074
 #EXTINF:-1 tvg-name="电影昆塔反转星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影昆塔反转星球.png" group-title="📥其它频道",电影昆塔反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 tvg-name="电影最TOP" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影最TOP.png" group-title="📥其它频道",电影最TOP
-https://www.goodiptv.club/huya/11774959
 #EXTINF:-1 tvg-name="电影棉花糖和云朵妈妈" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影棉花糖和云朵妈妈.png" group-title="📥其它频道",电影棉花糖和云朵妈妈
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 tvg-name="电影熊出没变形记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影熊出没变形记.png" group-title="📥其它频道",电影熊出没变形记
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 tvg-name="电影狂人A" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影狂人A.png" group-title="📥其它频道",电影狂人A
+https://www.goodiptv.club/huya/18715610
 #EXTINF:-1 tvg-name="电影猪猪侠英雄猪少年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影猪猪侠英雄猪少年.png" group-title="📥其它频道",电影猪猪侠英雄猪少年
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 tvg-name="白鹤电影呀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白鹤电影呀.png" group-title="📥其它频道",白鹤电影呀
-https://www.goodiptv.club/huya/27989418
+#EXTINF:-1 tvg-name="电影笔记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影笔记.png" group-title="📥其它频道",电影笔记
+https://www.goodiptv.club/douyu/9636034
+#EXTINF:-1 tvg-name="看电影了没V" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/看电影了没V.png" group-title="📥其它频道",看电影了没V
+https://www.goodiptv.club/douyu/9562616
+#EXTINF:-1 tvg-name="笑笑影视Y" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑笑影视Y.png" group-title="📥其它频道",笑笑影视Y
+https://www.goodiptv.club/huya/24804669
+#EXTINF:-1 tvg-name="米尼影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/米尼影院.png" group-title="📥其它频道",米尼影院
+https://www.goodiptv.club/douyu/7642724
+#EXTINF:-1 tvg-name="舒克影视梗" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/舒克影视梗.png" group-title="📥其它频道",舒克影视梗
+https://www.goodiptv.club/huya/24517063
 #EXTINF:-1 tvg-name="草泥泥影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草泥泥影院.png" group-title="📥其它频道",草泥泥影院
 https://www.goodiptv.club/douyu/9091049
 #EXTINF:-1 tvg-name="荒野求生影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/荒野求生影视.png" group-title="📥其它频道",荒野求生影视
 https://www.goodiptv.club/huya/24766781
+#EXTINF:-1 tvg-name="莱纳电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/莱纳电影.png" group-title="📥其它频道",莱纳电影
+https://www.goodiptv.club/douyu/9356937
+#EXTINF:-1 tvg-name="董小姐影视剪辑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/董小姐影视剪辑.png" group-title="📥其它频道",董小姐影视剪辑
+https://www.goodiptv.club/huya/26995483
+#EXTINF:-1 tvg-name="虎牙影视厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/虎牙影视厅.png" group-title="📥其它频道",虎牙影视厅
+https://www.goodiptv.club/huya/16020072
+#EXTINF:-1 tvg-name="贰哥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贰哥电影.png" group-title="📥其它频道",贰哥电影
+https://www.goodiptv.club/douyu/9338867
+#EXTINF:-1 tvg-name="辟哥影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辟哥影视.png" group-title="📥其它频道",辟哥影视
+https://www.goodiptv.club/huya/27653235
 #EXTINF:-1 tvg-name="铁血影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁血影视汇.png" group-title="📥其它频道",铁血影视汇
 https://www.goodiptv.club/douyu/9649701
 #EXTINF:-1 tvg-name="铃芽之旅日语原声" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铃芽之旅日语原声.png" group-title="📥其它频道",铃芽之旅日语原声
@@ -2857,6 +2909,8 @@ https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
 https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV东北热剧.png" group-title="📥其它频道",NewTV东北热剧
 http://yc.myds.me:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV军旅剧场.png" group-title="📥其它频道",NewTV军旅剧场
+http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV古装剧场.png" group-title="📥其它频道",NewTV古装剧场
 http://yc.myds.me:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV哒啵赛事.png" group-title="📥其它频道",NewTV哒啵赛事
@@ -2867,18 +2921,24 @@ http://yc.myds.me:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
 http://yc.myds.me:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV潮妈辣婆.png" group-title="📥其它频道",NewTV潮妈辣婆
 http://yc.myds.me:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV炫舞未来.png" group-title="📥其它频道",NewTV炫舞未来
+http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV爱情喜剧.png" group-title="📥其它频道",NewTV爱情喜剧
 http://yc.myds.me:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品大剧.png" group-title="📥其它频道",NewTV精品大剧
+http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品纪录.png" group-title="📥其它频道",NewTV精品纪录
 http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品综合.png" group-title="📥其它频道",NewTV精品综合
+http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品萌宠.png" group-title="📥其它频道",NewTV精品萌宠
+http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV超级电视剧.png" group-title="📥其它频道",NewTV超级电视剧
 http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="iHOT爱电竞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱电竞.png" group-title="📥其它频道",iHOT爱电竞
+http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV黑莓动画.png" group-title="📥其它频道",NewTV黑莓动画
 http://yc.myds.me:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="晓飞做动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晓飞做动画.png" group-title="📥其它频道",晓飞做动画
-https://www.goodiptv.club/douyu/10817660
-#EXTINF:-1 tvg-name="林小二动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林小二动画.png" group-title="📥其它频道",林小二动画
-https://www.goodiptv.club/douyu/11184164
 #EXTINF:-1 tvg-name="北京影帝的分身" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影帝的分身.png" group-title="📥其它频道",北京影帝的分身
 https://www.goodiptv.club/douyu/9805480
 #EXTINF:-1 tvg-name="北京钟鼓楼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京钟鼓楼.png" group-title="📥其它频道",北京钟鼓楼
@@ -2925,90 +2985,98 @@ https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp6PA4gUo_LGSwQQ.mp4
 http://yc.myds.me:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="17号说动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/17号说动漫.png" group-title="📥其它频道",17号说动漫
 https://www.goodiptv.club/douyu/9822277
+#EXTINF:-1 tvg-name="DD解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DD解说.png" group-title="📥其它频道",DD解说
+https://www.goodiptv.club/huya/25650806
 #EXTINF:-1 tvg-name="Ido漫说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Ido漫说.png" group-title="📥其它频道",Ido漫说
 https://www.goodiptv.club/douyu/9456379
+#EXTINF:-1 tvg-name="JG影视解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JG影视解说.png" group-title="📥其它频道",JG影视解说
+https://www.goodiptv.club/douyu/9391277
+#EXTINF:-1 tvg-name="K叔趣侃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/K叔趣侃.png" group-title="📥其它频道",K叔趣侃
+https://www.goodiptv.club/huya/27860114
+#EXTINF:-1 tvg-name="Sir说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sir说电影.png" group-title="📥其它频道",Sir说电影
+https://www.goodiptv.club/huya/16626185
+#EXTINF:-1 tvg-name="侃片大师兄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/侃片大师兄.png" group-title="📥其它频道",侃片大师兄
+https://www.goodiptv.club/douyu/9338839
 #EXTINF:-1 tvg-name="冷漠不要再说你还爱我" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠不要再说你还爱我.png" group-title="📥其它频道",冷漠不要再说你还爱我
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="冷漠谁都不要说分手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠谁都不要说分手.png" group-title="📥其它频道",冷漠谁都不要说分手
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇华夏传说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇华夏传说.png" group-title="📥其它频道",凤凰传奇华夏传说
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="刘老师说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘老师说电影.png" group-title="📥其它频道",刘老师说电影
-https://www.goodiptv.club/douyu/8317926
 #EXTINF:-1 tvg-name="可乐撩电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/可乐撩电影.png" group-title="📥其它频道",可乐撩电影
 https://www.goodiptv.club/huya/20045465
+#EXTINF:-1 tvg-name="史君说剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/史君说剧.png" group-title="📥其它频道",史君说剧
+https://www.goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-name="叶倩文我的爱对你说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶倩文我的爱对你说.png" group-title="📥其它频道",叶倩文我的爱对你说
 http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
-#EXTINF:-1 tvg-name="女神撩电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女神撩电影.png" group-title="📥其它频道",女神撩电影
-https://www.goodiptv.club/douyu/9439594
-#EXTINF:-1 tvg-name="好号影说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好号影说.png" group-title="📥其它频道",好号影说
-https://www.goodiptv.club/douyu/628532
+#EXTINF:-1 tvg-name="唯一讲述者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/唯一讲述者.png" group-title="📥其它频道",唯一讲述者
+https://www.goodiptv.club/douyu/9440460
 #EXTINF:-1 tvg-name="安小闫说电影x" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安小闫说电影x.png" group-title="📥其它频道",安小闫说电影x
 https://www.goodiptv.club/douyu/1842621
-#EXTINF:-1 tvg-name="小川侃电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小川侃电影.png" group-title="📥其它频道",小川侃电影
-https://www.goodiptv.club/huya/15870999
-#EXTINF:-1 tvg-name="小杨说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小杨说电影.png" group-title="📥其它频道",小杨说电影
-https://www.goodiptv.club/huya/23338162
-#EXTINF:-1 tvg-name="小林讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小林讲电影.png" group-title="📥其它频道",小林讲电影
-https://www.goodiptv.club/huya/18368391
-#EXTINF:-1 tvg-name="小歌说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小歌说电影.png" group-title="📥其它频道",小歌说电影
-https://www.goodiptv.club/huya/25443495
+#EXTINF:-1 tvg-name="小丑讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小丑讲电影.png" group-title="📥其它频道",小丑讲电影
+https://www.goodiptv.club/huya/16857432
+#EXTINF:-1 tvg-name="小丽说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小丽说电影.png" group-title="📥其它频道",小丽说电影
+https://www.goodiptv.club/huya/20056437
+#EXTINF:-1 tvg-name="小乔讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小乔讲电影.png" group-title="📥其它频道",小乔讲电影
+https://www.goodiptv.club/douyu/8413908
+#EXTINF:-1 tvg-name="小优漫讲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小优漫讲.png" group-title="📥其它频道",小优漫讲
+https://www.goodiptv.club/huya/27630411
+#EXTINF:-1 tvg-name="小冷说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小冷说电影.png" group-title="📥其它频道",小冷说电影
+https://www.goodiptv.club/huya/16739452
+#EXTINF:-1 tvg-name="小司马说剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小司马说剧.png" group-title="📥其它频道",小司马说剧
+https://www.goodiptv.club/douyu/9660127
+#EXTINF:-1 tvg-name="小浅说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小浅说电影.png" group-title="📥其它频道",小浅说电影
+https://www.goodiptv.club/douyu/9665834
 #EXTINF:-1 tvg-name="小涛讲电影V" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小涛讲电影V.png" group-title="📥其它频道",小涛讲电影V
 https://www.goodiptv.club/douyu/8415464
-#EXTINF:-1 tvg-name="小马哥说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小马哥说电影.png" group-title="📥其它频道",小马哥说电影
-https://www.goodiptv.club/douyu/9396672
-#EXTINF:-1 tvg-name="怪兽讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怪兽讲电影.png" group-title="📥其它频道",怪兽讲电影
-https://www.goodiptv.club/huya/25022961
+#EXTINF:-1 tvg-name="小片片说大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小片片说大片.png" group-title="📥其它频道",小片片说大片
+https://www.goodiptv.club/douyu/4258555
+#EXTINF:-1 tvg-name="小田儿解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小田儿解说.png" group-title="📥其它频道",小田儿解说
+https://www.goodiptv.club/huya/27833739
+#EXTINF:-1 tvg-name="小超讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小超讲电影.png" group-title="📥其它频道",小超讲电影
+https://www.goodiptv.club/douyu/3432645
+#EXTINF:-1 tvg-name="快哥说老片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快哥说老片.png" group-title="📥其它频道",快哥说老片
+https://www.goodiptv.club/douyu/10411518
+#EXTINF:-1 tvg-name="扒点影视解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扒点影视解说.png" group-title="📥其它频道",扒点影视解说
+https://www.goodiptv.club/huya/24531823
+#EXTINF:-1 tvg-name="星君说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星君说电影.png" group-title="📥其它频道",星君说电影
+https://www.goodiptv.club/douyu/8014467
+#EXTINF:-1 tvg-name="晓杰侃电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晓杰侃电影.png" group-title="📥其它频道",晓杰侃电影
+https://www.goodiptv.club/huya/17279509
 #EXTINF:-1 tvg-name="校长谈恋爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/校长谈恋爱.png" group-title="📥其它频道",校长谈恋爱
 https://www.goodiptv.club/huya/17980620
-#EXTINF:-1 tvg-name="槽槽说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/槽槽说电影.png" group-title="📥其它频道",槽槽说电影
-https://www.goodiptv.club/douyu/752376
 #EXTINF:-1 tvg-name="爱讲神话的小志" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱讲神话的小志.png" group-title="📥其它频道",爱讲神话的小志
 https://www.goodiptv.club/douyu/9495613
-#EXTINF:-1 tvg-name="疯狂解说家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/疯狂解说家.png" group-title="📥其它频道",疯狂解说家
-https://www.goodiptv.club/huya/18366196
+#EXTINF:-1 tvg-name="牛叔说电影二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/牛叔说电影二台.png" group-title="📥其它频道",牛叔说电影二台
+https://www.goodiptv.club/douyu/10010651
+#EXTINF:-1 tvg-name="白丁说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白丁说电影.png" group-title="📥其它频道",白丁说电影
+https://www.goodiptv.club/huya/24396428
 #EXTINF:-1 tvg-name="神之传说sh" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神之传说sh.png" group-title="📥其它频道",神之传说sh
 https://www.goodiptv.club/douyu/9370168
-#EXTINF:-1 tvg-name="秀才侃娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/秀才侃娱乐.png" group-title="📥其它频道",秀才侃娱乐
-https://www.goodiptv.club/douyu/9382873
-#EXTINF:-1 tvg-name="空空说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/空空说电影.png" group-title="📥其它频道",空空说电影
-https://www.goodiptv.club/huya/15923500
-#EXTINF:-1 tvg-name="绘说篮球C" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绘说篮球C.png" group-title="📥其它频道",绘说篮球C
-https://www.goodiptv.club/douyu/9401305
-#EXTINF:-1 tvg-name="续哥说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/续哥说电影.png" group-title="📥其它频道",续哥说电影
-https://www.goodiptv.club/huya/24396472
+#EXTINF:-1 tvg-name="神羊说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神羊说电影.png" group-title="📥其它频道",神羊说电影
+https://www.goodiptv.club/douyu/9443552
 #EXTINF:-1 tvg-name="美丽中国说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美丽中国说.png" group-title="📥其它频道",美丽中国说
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 tvg-name="老孙聊游戏" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老孙聊游戏.png" group-title="📥其它频道",老孙聊游戏
-https://www.goodiptv.club/douyu/2987298
-#EXTINF:-1 tvg-name="老胡说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老胡说电影.png" group-title="📥其它频道",老胡说电影
-https://www.goodiptv.club/douyu/8880466
-#EXTINF:-1 tvg-name="老邪说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老邪说电影.png" group-title="📥其它频道",老邪说电影
-https://www.goodiptv.club/douyu/9222870
-#EXTINF:-1 tvg-name="芳芳说故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/芳芳说故事.png" group-title="📥其它频道",芳芳说故事
-https://www.goodiptv.club/douyu/9401905
-#EXTINF:-1 tvg-name="菇菇说过" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/菇菇说过.png" group-title="📥其它频道",菇菇说过
-https://www.goodiptv.club/douyu/8788687
+#EXTINF:-1 tvg-name="老皮讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老皮讲电影.png" group-title="📥其它频道",老皮讲电影
+https://www.goodiptv.club/huya/16968572
 #EXTINF:-1 tvg-name="西施撩电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西施撩电影.png" group-title="📥其它频道",西施撩电影
 https://www.goodiptv.club/douyu/7532080
-#EXTINF:-1 tvg-name="西红柿讲电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西红柿讲电影.png" group-title="📥其它频道",西红柿讲电影
-https://www.goodiptv.club/huya/24999835
+#EXTINF:-1 tvg-name="说好的我们一起白嫖呢" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/说好的我们一起白嫖呢.png" group-title="📥其它频道",说好的我们一起白嫖呢
+https://www.goodiptv.club/douyu/7421687
 #EXTINF:-1 tvg-name="谁语说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/谁语说电影.png" group-title="📥其它频道",谁语说电影
 https://www.goodiptv.club/douyu/8705754
-#EXTINF:-1 tvg-name="钱小元说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/钱小元说电影.png" group-title="📥其它频道",钱小元说电影
-https://www.goodiptv.club/douyu/9368265
+#EXTINF:-1 tvg-name="邦邦说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邦邦说.png" group-title="📥其它频道",邦邦说
+https://www.goodiptv.club/huya/27742258
+#EXTINF:-1 tvg-name="锋哥聊商机" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/锋哥聊商机.png" group-title="📥其它频道",锋哥聊商机
+https://www.goodiptv.club/douyu/9472141
 #EXTINF:-1 tvg-name="阎君说剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/阎君说剧.png" group-title="📥其它频道",阎君说剧
 https://www.goodiptv.club/douyu/10475459
 #EXTINF:-1 tvg-name="阿松撩剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/阿松撩剧.png" group-title="📥其它频道",阿松撩剧
 https://www.goodiptv.club/douyu/8880843
-#EXTINF:-1 tvg-name="阿祥说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/阿祥说电影.png" group-title="📥其它频道",阿祥说电影
-https://www.goodiptv.club/huya/16868935
-#EXTINF:-1 tvg-name="非同说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非同说电影.png" group-title="📥其它频道",非同说电影
-https://www.goodiptv.club/huya/20482574
-#EXTINF:-1 tvg-name="驴哥说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/驴哥说电影.png" group-title="📥其它频道",驴哥说电影
-https://www.goodiptv.club/douyu/5376478
-#EXTINF:-1 tvg-name="鸡哥聊电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鸡哥聊电影.png" group-title="📥其它频道",鸡哥聊电影
-https://www.goodiptv.club/douyu/5067952
+#EXTINF:-1 tvg-name="飞碟说官方" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/飞碟说官方.png" group-title="📥其它频道",飞碟说官方
+https://www.goodiptv.club/douyu/1449125
+#EXTINF:-1 tvg-name="鲨说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鲨说电影.png" group-title="📥其它频道",鲨说电影
+https://www.goodiptv.club/douyu/9544628
 #EXTINF:-1 tvg-name="黑眼侃片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑眼侃片.png" group-title="📥其它频道",黑眼侃片
 https://www.goodiptv.club/huya/24609357
 #EXTINF:-1 tvg-name="新疆天山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆天山.png" group-title="📥其它频道",新疆天山
