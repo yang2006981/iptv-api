@@ -1,18 +1,29 @@
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
+CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
+CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
+CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
+CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
+内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
+山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
+四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;fbl=
-缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?fbl=
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 
 ☘️北京频道,#genre#
@@ -65,7 +76,6 @@ CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd#http://60.220.198.84:81/0.m3u8
 武乡新闻综合,http://60.220.198.84:81/0.m3u8
 
 ☘️安徽频道,#genre#
@@ -90,7 +100,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
@@ -115,4 +124,4 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-24 18:11:39,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+2025-10-25 06:10:37,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
