@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-31 06:36:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-31 18:41:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3268,7 +3268,6 @@ NBTV-4,url
 汪清综合,url
 内蒙新闻,url
 内蒙少儿,url
-内蒙文体,url
 内蒙农牧,url
 蒙语文化,url
 内蒙古综合,url
