@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-02 18:40:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-03 06:38:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -869,7 +869,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8
@@ -2921,6 +2920,7 @@ NBTV-4,url
 鄞州一套,url
 象山综合,url
 象山电视台新闻综合,url
+象山新闻综合,url
 舟山群岛旅游,url
 舟山公共生活,url
 绍兴电视台公共,url
@@ -3269,6 +3269,7 @@ NBTV-4,url
 汪清综合,url
 内蒙新闻,url
 内蒙少儿,url
+内蒙文体,url
 内蒙农牧,url
 蒙语文化,url
 内蒙古综合,url
