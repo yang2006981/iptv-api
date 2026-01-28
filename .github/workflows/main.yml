@@ -1,19 +1,13 @@
-name: 'Update schedule'
-
+# .github/workflows/main.yml
 on:
-  schedule:
-    - cron: '0 22,10 * * *'
   workflow_dispatch:
-    branches:
-      - master
-      - dev
-      - gd
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
     strategy:
       matrix:
-        operating-system: [ 'ubuntu-latest' ]
+        operating-system: ['ubuntu-latest']
     steps:
       - name: Set branch name
         id: vars
@@ -27,33 +21,12 @@ jobs:
           python-version: '3.13'
           update-environment: true
           cache: 'pipenv'
-      - name: Check open_driver config
-        id: check_driver
-        run: |
-          echo "OPEN_DRIVER=$(python -c '
-          try:
-            from utils.config import config
-            open_driver = config.open_driver
-          except:
-            open_driver = False
-          print(open_driver)')" >> $GITHUB_ENV
-      - name: Set up Chrome
-        if: env.OPEN_DRIVER == 'True'
-        uses: browser-actions/setup-chrome@latest
-        with:
-          chrome-version: stable
-      - name: Download chrome driver
-        if: env.OPEN_DRIVER == 'True'
-        uses: nanasess/setup-chromedriver@master
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install pipenv
-        run: pip3 install --user pipenv
-      - name: Install dependecies
+        run: pip install --user pipenv
+      - name: Install dependencies
         run: pipenv --python 3.13 && pipenv install --deploy
-      - name: Install selenium
-        if: env.OPEN_DRIVER == 'True'
-        run: pipenv install selenium
       - name: Update
         run: pipenv run dev
       - name: Commit and push if changed
@@ -65,3 +38,4 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+
